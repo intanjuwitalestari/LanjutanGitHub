@@ -1,0 +1,4 @@
+    -Git riset = Untuk mengembalikan file ke kondisi sebelumnya dan menghapus commit berikutnya yang sudah dilakukan. -Git revert = Untuk kembali ke file sebelumnya, namun tidak menghapus sejarah commit yang sudah dilakukan.
+    -Git merge = Bertujuan untuk menyatukan 2 atau lebih branch commit dengan syarat membuat branch baru tanpa mengedit langsung di branch utama. -Git rebase = Bertujuan untuk memindahkan branch dari lokasi satu ke lokasi lainnya.
+    -git stash pop = Membuang simpanan yang berada pada posisi paling atas. -git stash apply = Menyimpan data di daftar simpanan dan akan digunakan kembali.
+    Rebasing interaktif => Digunakan untuk mengubah, mengedit, menghapus data dengan menggunakan commit. Gunakan SHA-1 dengan menggunakan commit untuk mengaktifkan interaktif pada rebase.
